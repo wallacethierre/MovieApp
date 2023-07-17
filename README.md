@@ -134,32 +134,10 @@ Other high-quality projects will help you to find solutions that work for your p
 
 * [books jetpack](https://github.com/nglauber/books_jetpack) - a showcase that uses jetpack components
 
-## Author
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/thiagoolsilva">
-            <img src="https://avatars3.githubusercontent.com/u/1016855?v=4" width="100px;" alt=""/>
-            <br>
-            <sub><b>Thiago Lopes</b></sub>
-            <br>
-            <a href="https://medium.com/@thiagolopessilva" title="Medium">
-                <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />
-            </a>
-            <a href="https://www.linkedin.com/in/thiago-lopes-silva-2b943a25/" title="Linkedin">
-                <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-            </a>
-            <a href="https://twitter.com/thiagoolsilva" title="Twitter">
-                <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
-            </a>
-        </td>
-    </tr>
-</table>
-
 
 ## License
 ```
-Copyright (c) 2022  Thiago Lopes da Silva
+Copyright (c) 2023 Wallace Thierre
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
