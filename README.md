@@ -137,7 +137,7 @@ Other high-quality projects will help you to find solutions that work for your p
 
 ## License
 ```
-Copyright (c) 2022  Thiago Lopes da Silva
+Copyright (c) 2023 Wallace Thierre
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
